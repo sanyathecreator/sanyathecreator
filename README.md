@@ -13,6 +13,6 @@
 
 ### 📊 Stats
 
-![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyathecreator&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyathecreator&layout=donut&theme=dracula)
+![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyathecreator&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyathecreator&layout=donut&theme=dark)
 #
